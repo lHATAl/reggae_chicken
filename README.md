@@ -1,4 +1,4 @@
-## ReggaeGit
+# ReggaeGit
 
 -This is a simple and light version control service for students and beginners.
 
