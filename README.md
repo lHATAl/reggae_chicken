@@ -1,1 +1,1 @@
-SVC project
+VCS project
