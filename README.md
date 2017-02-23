@@ -2,7 +2,7 @@
 
 # ReggaeGit
 
--This is a simple and light version control service for students and beginners.
+-This is simple and light version control service for students and beginners.
 
 * Intuitive Interface
 
