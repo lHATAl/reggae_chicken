@@ -1,4 +1,4 @@
-![alt tag]()
+![alt tag](https://github.com/hakumaku/reggae_chicken/blob/master/ReggaeGit_logo.png)
 
 # ReggaeGit
 
